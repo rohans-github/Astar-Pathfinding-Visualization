@@ -19,3 +19,10 @@ where n is the next node on the path, g(n) is the cost of the path from the star
 
 # Applications of A* Algorithm 🖥️
 The A* algorithm is widely used in various domains for pathfinding and optimization problems. It has applications in robotics, video games, route planning, logistics, and artificial intelligence. In robotics, A* helps robots navigate obstacles and find optimal paths. In video games, it enables NPCs to navigate game environments intelligently. Route planning applications use A* to find the shortest or fastest routes between locations. Logistics industries utilize A* for vehicle routing and scheduling. A* is also employed in AI systems, such as natural language processing and machine learning, to optimize decision-making processes. Its versatility and efficiency make it a valuable algorithm in many real-world scenarios.
+
+# Installation 🚀
+To deploy this project install Pygame
+
+```bash
+  pip install pygame
+```
