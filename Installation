@@ -1,7 +1,0 @@
-Installation
-
-To deploy this project install Pygame
-
-```bash
-  pip install pygame
-```
