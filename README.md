@@ -2,7 +2,7 @@
 A python visualization of the A* path finding algorithm. It allows you to pick your start and end location and view the process of finding the shortest path.
 
 <p align="center">
-![](https://github.com/rohans-github/A-Pathfinding-Visualization/blob/main/Astarpathfinding.gif)
+  <img src="Astarpathfinding.gif" alt="animated" />
 </p>
 
 # Description
